@@ -52,7 +52,8 @@ Pushmanager没有clear所有通知的方法，调系统的notification的cancel�
 
 ### 21、更多问题
 请查看issues
-如还没解决你的问题？请联系我们
+
+如还没解决你的问题，请联系我们
 
 推送平台技术交流QQ群：488591713
 
