@@ -47,8 +47,8 @@ API推送速率按照注册应用速率限制，默认500条/秒 ，API一天的
 别名只与应用有关，与设备无关，一个设备可以有多个别名，一个应用只可有一个别名。
 #19、PushManager没有clear所有通知的方法吗？调系统的notification的cancel，是否可移除？ 
 Pushmanager没有clear所有通知的方法，调系统的notification的cancel无法去掉。 
-#20、 SDK里的Utility.isFlymeRom()不能用来校验魅族手机么？ 有没有推荐的方法，可以校验是flyme系统的？
-#21、更多问题
+
+#20、更多问题
 请查看issues
 如还没解决你的问题？请联系我们
 
